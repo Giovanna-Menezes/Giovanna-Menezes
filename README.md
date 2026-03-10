@@ -2,7 +2,9 @@
 
 **`Desenvolvedora Backend`**
 
-Me chamo Giovanna Menezes, tenho 20 anos e sou natural de São Paulo. Concluí o curso de análise e desenvolvimento de sistemas na UNIP, e atualmente estou cursando o 4° periodo do curso engenharia de software na USJT. Sou apaixonada por tecnologia, pois ela me permite transformar criatividade em código, ideias em soluções e curiosidade em inovação.
+Me chamo Giovanna Menezes, tenho 20 anos e sou natural de São Paulo. Concluí o curso de análise e desenvolvimento de sistemas na UNIP, e atualmente estou cursando o 4° periodo do curso engenharia de software na USJT. 
+
+Sou apaixonada por tecnologia, pois ela me permite transformar criatividade em código, ideias em soluções e curiosidade em inovação.
 
 ### 🤖 Linguagens e Tecnologias
    
